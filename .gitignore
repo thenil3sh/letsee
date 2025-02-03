@@ -1,0 +1,6 @@
+/target
+/src
+/ui
+/build.rs
+Cargo.lock
+Cargo.toml

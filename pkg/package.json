@@ -1,0 +1,15 @@
+{
+  "name": "letsee",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "letsee_bg.wasm",
+    "letsee.js",
+    "letsee.d.ts"
+  ],
+  "main": "letsee.js",
+  "types": "letsee.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
